@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Users from './FunComp';
 import reportWebVitals from './reportWebVitals';
+import ClassComp from './ClassComp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
